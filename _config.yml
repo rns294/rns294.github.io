@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Robert Saunders / rns294.github.io"
+title                    : "rns294.github.io"
 title_separator          : "-"
 name                     : &name "Robert N. Saunders, PhD"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Robert N. Saunders, PhD"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Bio"
   location         : "Alexandria, VA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VpA3ozAAAAAJ&hl=enm"
-  email            : "mailto:robert.n.saunders1@gmail.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
