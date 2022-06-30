@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Robert N. Saunders, PhD"
   avatar           : "profile.png"
-  bio              : "Bio"
+  bio              : "Mechanical Engineer"
   location         : "Washington, D.C."
   employer         : "U.S. Naval Research Laboratory"
   pubmed           : 
@@ -199,8 +199,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _talks
   - scope:
       path: ""
@@ -208,7 +208,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 # Sass/SCSS
 sass:
