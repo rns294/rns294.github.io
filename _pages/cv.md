@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Industrial and Systems Engineering, Texas A&amp;M University, 2022
+  * Graduate Certificate in Applied Statistics
+  * Dissertation: [Metal Additive Manufacturing Process-Structure-Property Relational Linkages Using Gaussian Process Surrogates](http://rns294.github.io/files/dissertation.pdf)
+  * Supervisor: Professors Alaa Elwany and Dimitris Lagoudas
+* M.S. in Aerospace Engineer, Texas A&amp;M University, 2015
+  * Dissertation: [Modeling of Inductive Heating on Shape Memory Alloy Components](http://rns294.github.io/files/dissertation.pdf)
+  * Supervisor: Professors Dimitris Lagoudas and James Boyd
+* B.S. in Aerospace Engineer, Virginia Tech, 2013
+  * Minor in Mathematics
 
 Work experience
 ======
@@ -36,6 +42,10 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -47,13 +57,4 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
