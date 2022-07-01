@@ -23,9 +23,9 @@ Education
 * B.S. in Aerospace Engineer, Virginia Tech, 2013
   * Minor in Mathematics
 
-Work experience
+Work Experience
 ======
-* Mechanical Engineer, U.S. Naval Research Laboratory, 2016-Present
+* Mechanical Engineer, U.S. Naval Research Laboratory, 2016-present
   * Supervisor: Dr. Kirubel Teferra
   * Naval Research Laboratory Edison Memorial Graduate Training Program Recipient
   * Surrogate modeling based on multi-fidelity physics-based simulations and experiments for metal additive manufacturing
@@ -51,20 +51,46 @@ Work experience
   * Supervisor: Dr. Sungeon (Sonny) Jeon
   * Design and construction of a deployable tensioned helical structure using composite pultrusions.
 
-Service and leadership
+* Medical Device Consultant, 2014
+  * Finite element modeling of shape memory alloy based biomedical devices.
+
+Service, Leadership, and Other Activities
 ======
-* Summer Scholar, Air Force Research Laboratory, 2014
-  * Supervisor: Dr. Sungeon (Sonny) Jeon
-  * Design and construction of a deployable tensioned helical structure using composite pultrusions.
+* Naval Research Laboratory Student Mentor, 2015-present
+  * Served as a technical mentor for 2-4 summer students each year.
+
+* CASMART Design Challenge Advisor, Texas A&amp;M University, 2015
+  * Design of a shape memory alloy based deployable solar array.
+  *	Served as an advisor to a group of 5 undergraduates working on the project.
+
+* Undergraduate Research Assistant, Virginia Tech, 2011-2013
+	* Supervisor: Dr. Gary Seidel	
+  * 1-D modeling and testing of shape memory alloys springs.	
+
+* Virginia Tech Microgravity Research Team, Virginia Tech, 2010–2013
+	* Supervisor: Dr. Troy Henderson		
+  * Investigation of a moving mass actuator control system for re-entry vehicles and small satellites.
+  * Chosen two consecutive years to participate in NASAs Reduced Gravity Flight Education Program.
+
+* Member, American Society of Mechanical Engineers
+
+* Journal Reviewer
+  * Journal of DoD Research and Engineering
+  * Journal of Intelligent Material Systems and Engineering
+  * Materials Today
+  * Finite Elements in Analysis and Design
+  * Defence Technology
+
+* Technical conference session/symposium organizer and chair
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Languages – Fortran, Python, R, Matlab
+* Software – Abaqus, COMSOL, ScanIP, Solidworks, Mathematica
+* Basic machine shop and mechanical testing experience
+* Windows, Linux, Unix experience
+* Finite Element Modeling, Mechanics of Materials, Machine/Statistical Learning, Surrogate Modeling, Time and Personnel Management
+
 
 Publications
 ======
