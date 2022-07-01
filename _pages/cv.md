@@ -14,10 +14,10 @@ Education
 * Ph.D in Industrial and Systems Engineering, Texas A&amp;M University, 2022
   * Graduate Certificate in Applied Statistics
   * Dissertation: [Metal Additive Manufacturing Process-Structure-Property Relational Linkages Using Gaussian Process Surrogates](http://rns294.github.io/files/dissertation.pdf)
-  * Supervisor: Professors Alaa Elwany and Dimitris Lagoudas
+  * Supervisor(s): Professors Alaa Elwany and Dimitris Lagoudas
 * M.S. in Aerospace Engineer, Texas A&amp;M University, 2015
   * Thesis: [Modeling of Inductive Heating on Shape Memory Alloy Components](http://rns294.github.io/files/thesis.pdf)
-  * Supervisor: Professors Dimitris Lagoudas and James Boyd
+  * Supervisor(s): Professors Dimitris Lagoudas and James Boyd
 * B.S. in Aerospace Engineer, Virginia Tech, 2013
   * Minor in Mathematics
 
