@@ -16,7 +16,7 @@ Education
   * Dissertation: [Metal Additive Manufacturing Process-Structure-Property Relational Linkages Using Gaussian Process Surrogates](http://rns294.github.io/files/dissertation.pdf)
   * Supervisor: Professors Alaa Elwany and Dimitris Lagoudas
 * M.S. in Aerospace Engineer, Texas A&amp;M University, 2015
-  * Dissertation: [Modeling of Inductive Heating on Shape Memory Alloy Components](http://rns294.github.io/files/dissertation.pdf)
+  * Thesis: [Modeling of Inductive Heating on Shape Memory Alloy Components](http://rns294.github.io/files/thesis.pdf)
   * Supervisor: Professors Dimitris Lagoudas and James Boyd
 * B.S. in Aerospace Engineer, Virginia Tech, 2013
   * Minor in Mathematics
