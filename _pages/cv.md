@@ -72,14 +72,14 @@ Service, Leadership, and Other Activities
   * Investigation of a moving mass actuator control system for re-entry vehicles and small satellites.
   * Chosen two consecutive years to participate in NASAs Reduced Gravity Flight Education Program.
 
-* Member, American Society of Mechanical Engineers
-
 * Journal Reviewer
   * Journal of DoD Research and Engineering
   * Journal of Intelligent Material Systems and Engineering
   * Materials Today
   * Finite Elements in Analysis and Design
   * Defence Technology
+
+* Member, American Society of Mechanical Engineers
 
 * Technical conference session/symposium organizer and chair
 
