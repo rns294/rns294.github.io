@@ -12,27 +12,51 @@ redirect_from:
 Education
 ======
 * Ph.D in Industrial and Systems Engineering, Texas A&amp;M University, 2022
+  * Supervisors: Professors Alaa Elwany and Dimitris Lagoudas
   * Graduate Certificate in Applied Statistics
   * Dissertation: [Metal Additive Manufacturing Process-Structure-Property Relational Linkages Using Gaussian Process Surrogates](http://rns294.github.io/files/dissertation.pdf)
-  * Supervisor(s): Professors Alaa Elwany and Dimitris Lagoudas
+
 * M.S. in Aerospace Engineer, Texas A&amp;M University, 2015
+  * Supervisors: Professors Dimitris Lagoudas and James Boyd
   * Thesis: [Modeling of Inductive Heating on Shape Memory Alloy Components](http://rns294.github.io/files/thesis.pdf)
-  * Supervisor(s): Professors Dimitris Lagoudas and James Boyd
+
 * B.S. in Aerospace Engineer, Virginia Tech, 2013
   * Minor in Mathematics
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mechanical Engineer, U.S. Naval Research Laboratory, 2016-Present
+  * Supervisor: Dr. Kirubel Teferra
+  * Naval Research Laboratory Edison Memorial Graduate Training Program Recipient
+  * Surrogate modeling based on multi-fidelity physics-based simulations and experiments for metal additive manufacturing
+  * Microstructure modeling of features induced by powder additively manufacturing.
+  * Development of strategies to prevent and protect from injuries due to blast events.
+  * Computational modeling of room temperature aerosol deposition of nano-crystalline thick films
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Jr. Biomechanics Engineer, Leidos Inc., 2015-2016
+  * Supervisor: Dr. Keith Williams
+  * Development of strategies to prevent and protect from injuries due to blast events.
+  * Creation of correspondence rules to predict traumatic brain injury in humans.
+  * Image-based finite element modeling of human and porcine subjects.
+  * Development of a methodology for assessing combat helmets.
+  * Constitutive model calibration of hyper-viscoelastic biological materials. 
+
+* Graduate Research Assistant, Texas A&amp;M University, 2013-2015
+  * Supervisor: Dr. Dimitris Lagoudas
+  * Development of a framework to model inductive heating of shape memory alloy components.
+  * Design, modeling, and fabrication of a composite twisting wing using shape memory alloy torque tubes.
+  * Simulation and optimization of self-folding reprogrammable sheets using shape memory alloy and shape memory polymer.
+
+* Summer Scholar, Air Force Research Laboratory, 2014
+  * Supervisor: Dr. Sungeon (Sonny) Jeon
+  * Design and construction of a deployable tensioned helical structure using composite pultrusions.
+
+Service and leadership
+======
+* Summer Scholar, Air Force Research Laboratory, 2014
+  * Supervisor: Dr. Sungeon (Sonny) Jeon
+  * Design and construction of a deployable tensioned helical structure using composite pultrusions.
+
 Skills
 ======
 * Skill 1
@@ -41,10 +65,6 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
 
 Publications
 ======
