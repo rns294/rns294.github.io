@@ -20,4 +20,4 @@ Education
 ------
 I hold a B.S. in aerospace engineering from Virginia Tech, an M.S. in aerospace engineering from Texas A&amp;M University, and a Ph.D. in industrial and systems engineering from Texas A&amp;M University. Additionally, I have a graduate certificate in applied statistics from Texas A&amp;M University with course emphasis on Bayesian and spatial statistics. 
 
-[comment]: <> (The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features.)
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features.
