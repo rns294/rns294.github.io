@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A PDF version of my CV is available [here](http://rns294.github.io/files/Robert_Saunders_CV.pdf).
+
 Education
 ======
 * Ph.D in Industrial and Systems Engineering, Texas A&amp;M University, 2022
