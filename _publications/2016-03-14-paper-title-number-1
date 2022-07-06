@@ -7,8 +7,6 @@ venue: 'Smart Materials and Structures'
 paperurl: 'http://rns294.github.io/files/paper1.pdf'
 ---
 
-Shape memory alloy (SMA) actuators deliver high forces while being compact and reliable, making them ideal for consideration in aerospace applications. One disadvantage of these thermally driven actuators is their slow cyclic time response compared to conventional actuators. Induction heating has recently been proposed to quickly heat SMA components. However efforts to date have been purely empirical. The present work approachs this problem in a computational manner by developing a finite element model of induction heating in which the time-harmonic electromagnetic equations are solved for the Joule heat power field, the energy equation is solved for the temperature field, and the linear momentum equations are solved to find the stress, displacement, and internal state variable fields. The combined model was implemented in Abaqus using a Python script approach and applied to SMA torque tube and beam actuators. The model has also been used to examine magnetic flux concentrators to improve the induction systems performance. Induction heating experiments were performed using the SMA torque tube, and the model agreed well with the experiments.
-
 [Journal link here](https://doi.org/10.1088/0964-1726/25/4/045022)
 
 [Download paper here](http://rns294.github.io/files/paper1.pdf)
