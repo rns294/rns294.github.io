@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a mechanical engineer at the U.S. Naval Research Laboratory (NRL) in Washington, D.C., working on a variety of projects involving mechanics of materials and machine learning.
 
-My research interests primarily include: Warfighter protection, additive manufacturing of metals and ceramics, biomechanics of brain injury, and applications of machine learning in those areas and for other engineering/research problems.
+My research interests primarily include: Warfighter protection, additive manufacturing of metals and ceramics, biomechanics of injury, and applications of machine learning in those areas and other similar engineering/research problems.
 
 Prior Experience
 ------
