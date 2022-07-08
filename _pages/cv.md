@@ -92,7 +92,14 @@ Skills
 * Basic machine shop and mechanical testing experience
 * Windows, Linux, Unix experience
 * Finite Element Modeling, Mechanics of Materials, Machine/Statistical Learning, Surrogate Modeling, Time and Personnel Management
-
+* [Coursera](https://www.coursera.org/) certificates in:
+  * [Project Management &amp; Other Tools for Career Development specialization](http://rns294.github.io/files/Coursera_ProjectManagement.pdf)
+  * [Deep Learning specialization](http://rns294.github.io/files/Coursera_DeepLearning.pdf)
+  * [DeepLearning.AI TensorFlow Developer specialization](http://rns294.github.io/files/Coursera_TensorFlow.pdf)
+  * [Generative Adversarial Networks (GANs) specialization](http://rns294.github.io/files/Coursera_GANs.pdf)
+  * [AI For Everyone course](http://rns294.github.io/files/Coursera_AI.pdf)
+  * [Machine Learning course](http://rns294.github.io/files/Coursera_ML.pdf)
+  * [Bayesian Methods for Machine Learning course (with honors)](http://rns294.github.io/files/Coursera_Bayesian.pdf)
 
 Publications
 ======
