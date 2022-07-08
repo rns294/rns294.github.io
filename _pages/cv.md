@@ -54,6 +54,7 @@ Work Experience
   * Design and construction of a deployable tensioned helical structure using composite pultrusions.
 
 * Medical Device Consultant, 2014
+  * Supervisor: Dr. Dimitris Lagoudas
   * Finite element modeling of shape memory alloy based biomedical devices.
 
 Service, Leadership, and Other Activities
