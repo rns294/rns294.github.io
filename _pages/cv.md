@@ -31,7 +31,7 @@ Work Experience
   * Supervisor: Dr. Kirubel Teferra
   * Naval Research Laboratory Edison Memorial Graduate Training Program Recipient
   * Surrogate modeling based on multi-fidelity physics-based simulations and experiments for metal additive manufacturing
-  * Microstructure modeling of features induced by powder additively manufacturing.
+  * Microstructure modeling of features induced by powder additive manufacturing.
   * Development of strategies to prevent and protect from injuries due to blast events.
   * Computational modeling of room temperature aerosol deposition of nano-crystalline thick films
 
