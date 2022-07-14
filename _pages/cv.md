@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of my CV is available [here](http://rns294.github.io/files/Robert_Saunders_CV.pdf).
+A PDF version of my CV is available [here](http://rns294.github.io/files/Robert_Saunders_CV.pdf) and a cover letter is available [here](http://rns294.github.io/files/Cover_Letter.pdf).
+
+Objective
+======
+I am seeking opportunities as a senior/principal/lead scientist or engineer that offer the ability for me to develop as a leader for personnel and projects. I am passionate about both areas, and I would like to explore them further as well as enhance my skills by continuing my education via an MBA and/or PMP (or similar) certification. An ideal position would allow me the flexibility to craft new proposals that address critical issues, execute them through collaborations with multidisciplinary teams, mentor and develop new talent, and provide the satisfaction of accomplishing the project deliverables on schedule.
 
 Education
 ======
-* Ph.D in Industrial and Systems Engineering, Texas A&amp;M University, 2022
+* Ph.D in Industrial Engineering, Texas A&amp;M University, 2022
   * Supervisors: Professors Alaa Elwany and Dimitris Lagoudas
   * Graduate Certificate in Applied Statistics
   * Dissertation: [Metal Additive Manufacturing Process-Structure-Property Relational Linkages Using Gaussian Process Surrogates](http://rns294.github.io/files/dissertation.pdf)
