@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a mechanical engineer at the U.S. Naval Research Laboratory (NRL) in Washington, D.C., working on a variety of projects involving mechanics of materials and machine learning.
 
-My current research interests primarily include: Warfighter protection, additive manufacturing of metals and ceramics, biomechanics of injury, and applications of machine learning in those areas.
+My current research interests primarily include: Warfighter protection, metal/ceramic additive manufacturing, injury biomechanics, and applications of machine learning in those areas.
 
 Prior Experience
 ------
@@ -18,4 +18,4 @@ Before joining NRL, I was a biomechanics engineer for Leidos Inc. where I worked
 
 Education
 ------
-I hold a B.S. in aerospace engineering from Virginia Tech, an M.S. in aerospace engineering from Texas A&amp;M University, and a Ph.D. in industrial and systems engineering from Texas A&amp;M University. Additionally, I have a graduate certificate in applied statistics from Texas A&amp;M University with course emphasis on Bayesian and spatial statistics.
+I hold a B.S. in aerospace engineering from Virginia Tech, an M.S. in aerospace engineering from Texas A&amp;M University, and a Ph.D. in industrial engineering from Texas A&amp;M University. Additionally, I have a graduate certificate in applied statistics from Texas A&amp;M University with course emphasis on Bayesian and spatial statistics.
