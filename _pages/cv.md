@@ -13,7 +13,7 @@ A PDF version of my CV is available [here](http://rns294.github.io/files/Robert_
 
 Objective
 ======
-I am seeking opportunities as a senior/principal/lead scientist or engineer that offer the ability for me to develop as a leader for personnel and projects. I am passionate about both areas, and I would like to explore them further as well as enhance my skills by continuing my education via an MBA and/or PMP (or similar) certification. An ideal position would allow me the flexibility to craft new proposals that address critical issues, execute them through collaborations with multidisciplinary teams, mentor and develop new talent, and provide the satisfaction of accomplishing the project deliverables on schedule.
+I am seeking opportunities as a senior level scientist/engineer. Ideally, this role would offer the ability for me to develop as a leader for both personnel and projects while continuing to grow as a technical expert. I have found through my experiences that leading projects and staff are passions of mine, and I am seeking opportunities where I am able to explore these areas further, including continued education via an MBA and/or PMP (or similar) certification. An ideal position would allow me the flexibility to craft new proposals that address critical issues, execute them through collaborations with multidisciplinary teams, mentor and develop new talent, and grow into a senior leadership position.
 
 Education
 ======
@@ -93,10 +93,10 @@ Service, Leadership, and Other Activities
 Skills
 ======
 * Computer Languages – Fortran, Python, R, Matlab
-* Software – Abaqus, COMSOL, ScanIP, Solidworks, Mathematica
+* Software – Abaqus, COMSOL, ScanIP, Solidworks, Mathematica, Microsoft Office
 * Basic machine shop and mechanical testing experience
 * Windows, Linux, Unix experience
-* Finite Element Modeling, Mechanics of Materials, Machine/Statistical Learning, Surrogate Modeling, Time and Personnel Management
+* Finite Element Modeling, Mechanics of Materials, Machine Learning, Statistical/Surrogate Modeling, Time and Personnel Management
 * [Coursera](https://www.coursera.org/) certificates in:
   * [Project Management &amp; Other Tools for Career Development specialization](http://rns294.github.io/files/Coursera_ProjectManagement.pdf)
   * [Deep Learning specialization](http://rns294.github.io/files/Coursera_DeepLearning.pdf)
