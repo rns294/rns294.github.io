@@ -13,7 +13,7 @@ A PDF version of my CV is available [here](http://rns294.github.io/files/Robert_
 
 Objective
 ======
-I am seeking opportunities as a senior level scientist/engineer. Ideally, this role would offer the ability for me to develop as a leader for both personnel and projects while continuing to grow as a technical expert. I have found through my experiences that leading projects and staff are passions of mine, and I am seeking opportunities where I am able to explore these areas further, including continued education via an MBA and/or PMP (or similar) certification. An ideal position would allow me the flexibility to craft new proposals that address critical issues, execute them through collaborations with multidisciplinary teams, mentor and develop new talent, and grow into a senior leadership position.
+My mission is to develop next-generation technologies and leaders in the U.S. Department of Defense to protect the Nation from emerging threats.
 
 Education
 ======
