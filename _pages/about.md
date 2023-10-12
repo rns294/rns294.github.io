@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a mechanical engineer at the U.S. Naval Research Laboratory (NRL) in Washington, D.C., working on a variety of projects involving mechanics of materials and machine learning.
-
-My current research interests primarily include: Warfighter protection, metal/ceramic additive manufacturing, injury biomechanics, and applications of machine learning in those areas.
+I am currently a deputy branch chief in the Launch Management Division in the Office of Space Launch (OSL) at the National Reconnasisance Office (NRO) in Chantilly, VA, where I lead strategic development and transitioning of launch and on-orbit capabilities.
 
 Prior Experience
 ------
-Before joining NRL, I was a biomechanics engineer for Leidos Inc. where I worked to develop strategies to protect Warfighters from injuries due to blunt/blast events and methodologies to assess combat helmet effectiveness. Prior to that, I was a research assistant at Texas A&amp;M University working on smart material analysis and integration into aerospace systems. I have also been involved in private consulting work to analyze biomedical devices made of shape memory alloys.
+Before joining NRO, I was a mechanical engineer at the U.S. Naval Research Laboratory (NRL) working on research prjects involving Warfighter protection, metal/ceramic additive manufacturing, injury biomechanics, and applications of machine learning in those areas. I have additional experience as a biomechanics engineer for Leidos Inc. where I worked to develop strategies to protect Warfighters from injuries due to blunt/blast events and methodologies to assess combat helmet effectiveness. Prior to that, I was a research assistant at Texas A&amp;M University working on smart material analysis and integration into aerospace systems. I have also been involved in private consulting work to analyze biomedical devices made of shape memory alloys.
 
 Education
 ------
