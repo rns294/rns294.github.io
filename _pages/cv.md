@@ -102,6 +102,8 @@ Skills
 * Software – Abaqus, COMSOL, ScanIP, Solidworks, Mathematica, Microsoft Office
 * Basic machine shop and mechanical testing experience
 * Windows, Linux, Unix experience
+* DAWIA Foundational Certification in Engineering & Technical Management
+* DAWIA Technology Project Management Credential
 * Finite Element Modeling, Mechanics of Materials, Machine Learning, Statistical/Surrogate Modeling, Time and Personnel Management
 * [Coursera](https://www.coursera.org/) certificates in:
   * [Project Management &amp; Other Tools for Career Development specialization](http://rns294.github.io/files/Coursera_ProjectManagement.pdf)
