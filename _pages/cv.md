@@ -13,7 +13,7 @@ A PDF version of my CV is available [here](http://rns294.github.io/files/Robert_
 
 Objective
 ======
-My mission is to become a DoD/IC leader in order to develop and transition advanced capabilities across the technology development “valley of death”. I aim to transition these capabilities to support the Warfighter, maintain the battlespace advantage, and inspire/mentor the next generation of engineers and scientists. I am seeking opportunities as a senior manager/director (GS-14/15 equivalent) with responsibilities such as leading and managing personnel and programs, oversight of strategic directions and technology development, and/or management and integration of risk, requirements, and resources.
+My mission is to become a DoD/IC leader in development and transitioning of advanced capabilities across the technology development “valley of death”. I aim to transition these capabilities to support the Warfighter, maintain the battlespace advantage, and inspire/mentor the next generation of engineers and scientists. I am seeking opportunities as a senior manager/director (GS-14/15 equivalent) with responsibilities such as leading and managing personnel and programs, oversight of strategic directions and technology development, and/or management and integration of risk, requirements, and resources.
 
 Education
 ======
