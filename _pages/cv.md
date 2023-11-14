@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of my CV is available [here](http://rns294.github.io/files/Robert_Saunders_CV.pdf) and a cover letter is available [here](http://rns294.github.io/files/Cover_Letter.pdf).
+A PDF version of my CV is available [here](http://rns294.github.io/files/Robert_Saunders_CV.pdf).
 
 Objective
 ======
