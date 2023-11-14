@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-A PDF version of my CV is available [here](http://rns294.github.io/files/Robert_Saunders_CV.pdf) and a cover letter is available [here](http://rns294.github.io/files/Cover_Letter.pdf).
+A PDF version of my cover letter is available [here](http://rns294.github.io/files/Cover_Letter.pdf).
 
 I am seeking opportunities as a senior level scientist/engineer where I can leverage by technical abilities and expertise to enhance the safety of our Nation. I am interested in positions that will allow me to utilize my skills in project management, technical analysis, and research and development. Ideally, this role would offer the ability for me to develop as a leader for both personnel and projects while continuing to grow as a technical expert.
 
