@@ -14,7 +14,7 @@ I maintain an active TS//SCI clearance with CI polygraph.
 
 Prior Experience
 ------
-Before joining NRO, I was a mechanical engineer at the U.S. Naval Research Laboratory (NRL) working on research prjects involving Warfighter protection, metal/ceramic additive manufacturing, injury biomechanics, and applications of machine learning in those areas. I have additional experience as a biomechanics engineer for Leidos Inc. where I worked to develop strategies to protect Warfighters from injuries due to blunt/blast events and methodologies to assess combat helmet effectiveness. Prior to that, I was a research assistant at Texas A&amp;M University working on smart material analysis and integration into aerospace systems. I have also been involved in private consulting work to analyze biomedical devices made of shape memory alloys.
+Before joining NRO, I was a mechanical engineer at the U.S. Naval Research Laboratory (NRL) working on research projects involving Warfighter protection, metal/ceramic additive manufacturing, injury biomechanics, and applications of machine learning in those areas. I have additional experience as a biomechanics engineer for Leidos Inc. where I worked to develop strategies to protect Warfighters from injuries due to blunt/blast events and methodologies to assess combat helmet effectiveness. Prior to that, I was a research assistant at Texas A&amp;M University working on smart material analysis and integration into aerospace systems. I have also been involved in private consulting work to analyze biomedical devices made of shape memory alloys.
 
 Education
 ------
