@@ -5,6 +5,9 @@ main:
         
   - title: "CV"
     url: /cv/
+
+  - title: "Cover Letter"
+    url: /coverletter/
     
   - title: "Publications"
     url: /publications/
