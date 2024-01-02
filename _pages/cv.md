@@ -32,18 +32,19 @@ Education
 Work Experience
 ======
 * Deputy Branch Chief, National Reconnaissance Office, 2023 – present
-  * Lead team of civilian, military, and contractor support staff to deliver future launch solutions and offer flexible/tailorable launch support services
-  * Identify, research, develop, and transition advanced launch and on-orbit capabilities
-  * Facilitate and coordinate internal and external strategic outreach with industry and government partners
-  * Execute non-NSSL missions through partnerships and procurement of small launch vehicles
+  * Lead team of civilian, military, and contractor support staff to deliver future launch solutions and offer flexible/tailorable launch support services.
+  * Identify, research, develop, and transition advanced launch and on-orbit capabilities via FAR and non-FAR based acquisitions.
+  * Facilitate and coordinate internal and external strategic outreach with industry and government partners.
+  * Execute non-NSSL missions through partnerships and procurement of small launch vehicles.
+
 
 * Mechanical Engineer, U.S. Naval Research Laboratory, 2016-2023
   * Supervisor: Dr. Kirubel Teferra
   * Naval Research Laboratory Edison Memorial Graduate Training Program Recipient
-  * Surrogate modeling based on multi-fidelity physics-based simulations and experiments for metal additive manufacturing
+  * Surrogate modeling based on multi-fidelity physics-based simulations and experiments for metal additive manufacturing.
   * Microstructure modeling of features induced by powder additive manufacturing.
   * Development of strategies to prevent and protect from injuries due to blast events.
-  * Computational modeling of room temperature aerosol deposition of nano-crystalline thick films
+  * Computational modeling of room temperature aerosol deposition of nano-crystalline thick films.
 
 * Jr. Biomechanics Engineer, Leidos Inc., 2015-2016
   * Supervisor: Dr. Keith Williams
