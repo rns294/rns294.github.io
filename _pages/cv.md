@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of my CV is available [here](http://rns294.github.io/files/Robert_Saunders_CV.pdf).
+A PDF version of my CV is available [here](http://rns294.github.io/files/Robert_Saunders_CV.pdf) with an abbreviated resume available [here](http://rns294.github.io/files/Robert_Saunders_Resume.pdf).
 
 Objective
 ======
-My mission is to become a DoD/IC leader in development and transitioning of advanced capabilities across the technology development “valley of death”. I aim to transition these capabilities to support the Warfighter, maintain the battlespace advantage, and inspire/mentor the next generation of engineers and scientists. I am seeking opportunities as a senior manager/director (GS-14/15 equivalent) with responsibilities such as leading and managing personnel and programs, oversight of strategic directions and technology development, development and execution of acquisition strategies, and/or management and integration of risk, requirements, and resources.
+My vision is to become a DoD/IC leader in development and transitioning of advanced capabilities across the technology development “valley of death”. My mission is to develop/acquire and transition evolutionary and revolutionary capabilities to support the Warfighter, maintain the battlespace advantage, and inspire/mentor the next generation of engineers and scientists. I value growth, competence, and self-discipline. I am seeking opportunities as a senior manager/director (GS-14/15 equivalent) with responsibilities such as leading and managing personnel and programs, oversight of strategic directions and technology development, development and execution of acquisition strategies, and/or management and integration of risk, requirements, and resources.
 
 Education
 ======
@@ -67,9 +67,9 @@ Work Experience
   * Supervisor: Dr. Dimitris Lagoudas
   * Finite element modeling of shape memory alloy based biomedical devices.
 
-Training, Certificates, and Awards
+Training, Certifications, and Awards
 ======
-* Naval Research Laboratory Edison Memorial Graduate Training Program Recipient
+* Naval Research Laboratory Edison Memorial Graduate Training Program
 
 * NRO Office of Space Launch Senior Technical Civilian Award – 3QFY23
 
@@ -79,7 +79,7 @@ Training, Certificates, and Awards
   * Digital Engineering
   * Risk, Issue, and Opportunity Management
 
-* [Coursera](https://www.coursera.org/) certificates in:
+* [Coursera](https://www.coursera.org/) Certifications in:
   * [Project Management &amp; Other Tools for Career Development specialization](http://rns294.github.io/files/Coursera_ProjectManagement.pdf)
   * [Deep Learning specialization](http://rns294.github.io/files/Coursera_DeepLearning.pdf)
   * [DeepLearning.AI TensorFlow Developer specialization](http://rns294.github.io/files/Coursera_TensorFlow.pdf)
