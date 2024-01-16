@@ -13,7 +13,7 @@ A PDF version of my CV is available [here](http://rns294.github.io/files/Robert_
 
 Objective
 ======
-My mission is to become a DoD/IC leader in development and transitioning of advanced capabilities across the technology development “valley of death”. I aim to transition these capabilities to support the Warfighter, maintain the battlespace advantage, and inspire/mentor the next generation of engineers and scientists. I am seeking opportunities as a senior manager/director (GS-14/15 equivalent) with responsibilities such as leading and managing personnel and programs, oversight of strategic directions and technology development, and/or management and integration of risk, requirements, and resources.
+My mission is to become a DoD/IC leader in development and transitioning of advanced capabilities across the technology development “valley of death”. I aim to transition these capabilities to support the Warfighter, maintain the battlespace advantage, and inspire/mentor the next generation of engineers and scientists. I am seeking opportunities as a senior manager/director (GS-14/15 equivalent) with responsibilities such as leading and managing personnel and programs, oversight of strategic directions and technology development, development and execution of acquisition strategies, and/or management and integration of risk, requirements, and resources.
 
 Education
 ======
@@ -35,12 +35,11 @@ Work Experience
   * Lead team of civilian, military, and contractor support staff to deliver future launch solutions and offer flexible/tailorable launch support services.
   * Identify, research, develop, and transition advanced launch and on-orbit capabilities via FAR and non-FAR based acquisitions.
   * Facilitate and coordinate internal and external strategic outreach with industry and government partners.
-  * Execute non-NSSL missions through partnerships and procurement of small launch vehicles.
+  * Execute non-NSSL missions through partnerships and procurement of small launch vehicles and rideshares.
 
 
 * Mechanical Engineer, U.S. Naval Research Laboratory, 2016-2023
   * Supervisor: Dr. Kirubel Teferra
-  * Naval Research Laboratory Edison Memorial Graduate Training Program Recipient
   * Surrogate modeling based on multi-fidelity physics-based simulations and experiments for metal additive manufacturing.
   * Microstructure modeling of features induced by powder additive manufacturing.
   * Development of strategies to prevent and protect from injuries due to blast events.
@@ -68,6 +67,27 @@ Work Experience
   * Supervisor: Dr. Dimitris Lagoudas
   * Finite element modeling of shape memory alloy based biomedical devices.
 
+Training, Certificates, and Awards
+======
+* Naval Research Laboratory Edison Memorial Graduate Training Program Recipient
+
+* NRO Office of Space Launch Senior Technical Civilian Award – 3QFY23
+
+* DAWIA Foundational Certification in Engineering & Technical Management
+* DAWIA Credentials in:
+  * Technology Project Management
+  * Digital Engineering
+  * Risk, Issue, and Opportunity Management
+
+* [Coursera](https://www.coursera.org/) certificates in:
+  * [Project Management &amp; Other Tools for Career Development specialization](http://rns294.github.io/files/Coursera_ProjectManagement.pdf)
+  * [Deep Learning specialization](http://rns294.github.io/files/Coursera_DeepLearning.pdf)
+  * [DeepLearning.AI TensorFlow Developer specialization](http://rns294.github.io/files/Coursera_TensorFlow.pdf)
+  * [Generative Adversarial Networks (GANs) specialization](http://rns294.github.io/files/Coursera_GANs.pdf)
+  * [AI For Everyone course](http://rns294.github.io/files/Coursera_AI.pdf)
+  * [Machine Learning course](http://rns294.github.io/files/Coursera_ML.pdf)
+  * [Bayesian Methods for Machine Learning course (with honors)](http://rns294.github.io/files/Coursera_Bayesian.pdf)
+
 Service, Leadership, and Other Activities
 ======
 * Naval Research Laboratory Student Mentor, 2015-present
@@ -75,7 +95,7 @@ Service, Leadership, and Other Activities
 
 * CASMART Design Challenge Advisor, Texas A&amp;M University, 2015
   * Design of a shape memory alloy based deployable solar array.
-  *	Served as an advisor to a group of 5 undergraduates working on the project.
+  * Served as an advisor to a group of 5 undergraduates working on the project.
 
 * Undergraduate Research Assistant, Virginia Tech, 2011-2013
 	* Supervisor: Dr. Gary Seidel	
@@ -103,17 +123,7 @@ Skills
 * Software – Abaqus, COMSOL, ScanIP, Solidworks, Mathematica, Microsoft Office
 * Basic machine shop and mechanical testing experience
 * Windows, Linux, Unix experience
-* DAWIA Foundational Certification in Engineering & Technical Management
-* DAWIA Technology Project Management Credential
 * Finite Element Modeling, Mechanics of Materials, Machine Learning, Statistical/Surrogate Modeling, Time and Personnel Management
-* [Coursera](https://www.coursera.org/) certificates in:
-  * [Project Management &amp; Other Tools for Career Development specialization](http://rns294.github.io/files/Coursera_ProjectManagement.pdf)
-  * [Deep Learning specialization](http://rns294.github.io/files/Coursera_DeepLearning.pdf)
-  * [DeepLearning.AI TensorFlow Developer specialization](http://rns294.github.io/files/Coursera_TensorFlow.pdf)
-  * [Generative Adversarial Networks (GANs) specialization](http://rns294.github.io/files/Coursera_GANs.pdf)
-  * [AI For Everyone course](http://rns294.github.io/files/Coursera_AI.pdf)
-  * [Machine Learning course](http://rns294.github.io/files/Coursera_ML.pdf)
-  * [Bayesian Methods for Machine Learning course (with honors)](http://rns294.github.io/files/Coursera_Bayesian.pdf)
 
 Publications
 ======
