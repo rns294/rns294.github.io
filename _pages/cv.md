@@ -31,14 +31,14 @@ Education
 
 Work Experience
 ======
-* Deputy Branch Chief, National Reconnaissance Office, 2023 – present
-  * Lead team of civilian, military, and contractor support staff to deliver future launch solutions and offer flexible/tailorable launch support services.
+* Deputy Branch Chief, National Reconnaissance Office (NRO), 2023 – present
+  * Lead/supervisor a team of civilian, military, and contractor support staff to acquire and deliver future launch solutions and offer flexible/tailorable launch support services.
   * Identify, research, develop, and transition advanced launch and on-orbit capabilities via FAR and non-FAR based acquisitions.
-  * Facilitate and coordinate internal and external strategic outreach with industry and government partners.
+  * Facilitate and coordinate internal and external strategic outreach with industry and government partners to identify and program for customer requirements.
   * Execute non-NSSL missions through partnerships and procurement of small launch vehicles and rideshares.
+  * Coordinate inputs from stakeholders and track progress for the program, planning, budgeting, and execution (PPBE) process.
 
-
-* Mechanical Engineer, U.S. Naval Research Laboratory, 2016-2023
+* Mechanical Engineer, U.S. Naval Research Laboratory (NRL), 2016-2023
   * Supervisor: Dr. Kirubel Teferra
   * Surrogate modeling based on multi-fidelity physics-based simulations and experiments for metal additive manufacturing.
   * Microstructure modeling of features induced by powder additive manufacturing.
@@ -70,8 +70,14 @@ Work Experience
 Training, Certifications, and Awards
 ======
 * Naval Research Laboratory Edison Memorial Graduate Training Program
+  * Multi-year competitively awarded graduate education program
 
 * NRO Office of Space Launch Senior Technical Civilian Award – 3QFY23
+
+* NRO Leadership Launch for Supervisors
+  * 1-week in-residence, intensive leadership training
+
+* NRO Contracting Officer Technical Representative (COTR)
 
 * DAWIA Foundational Certification in Engineering & Technical Management
 * DAWIA Credentials in:
@@ -123,7 +129,10 @@ Skills
 * Software – Abaqus, COMSOL, ScanIP, Solidworks, Mathematica, Microsoft Office
 * Basic machine shop and mechanical testing experience
 * Windows, Linux, Unix experience
-* Finite Element Modeling, Mechanics of Materials, Machine Learning, Statistical/Surrogate Modeling, Time and Personnel Management
+* Programing, planning, budgeting, and executing (PPBE)
+* Acquisition strategy and contracting
+* Time and Personnel Management
+* Finite Element Modeling, Mechanics of Materials, Machine Learning, Statistical/Surrogate Modeling
 
 Publications
 ======
