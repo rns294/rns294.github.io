@@ -1,14 +1,13 @@
 ---
-permalink: /about/
+permalink: /
 layout: archive
 title: "About Me"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
+  - /about/
   - /about.html
 ---
-
-{% include base_path %}
 
 I am currently a deputy branch chief in the Office of Space Launch (OSL), Launch Management Division at the National Reconnaissance Office (NRO), where I lead strategic development and transitioning of launch and on-orbit capabilities.
 
