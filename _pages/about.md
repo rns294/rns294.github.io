@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 I am currently a deputy branch chief in the Office of Space Launch (OSL), Launch Management Division at the National Reconnaissance Office (NRO), where I lead strategic development and transitioning of launch and on-orbit capabilities.
 
 I maintain an active TS//SCI clearance with CI polygraph. 
