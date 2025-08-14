@@ -84,7 +84,7 @@ Training, Certifications, and Awards
   * [Digital Engineering](http://rns294.github.io/files/DEcredential.pdf)
   * [Risk, Issue, and Opportunity Management](http://rns294.github.io/files/RIOcredential.pdf)
   * [Foundational Acquisition Intelligence](http://rns294.github.io/files/FAIcredential.pdf)
-  * [AI FOundations for the DoD](http://rns294.github.io/files/AIFcredential.pdf)
+  * [AI Foundations for the DoD](http://rns294.github.io/files/AIFcredential.pdf)
   * [Resilience](http://rns294.github.io/files/ALDcredential.pdf)
 
 * [Coursera](https://www.coursera.org/) Certifications in:
