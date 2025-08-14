@@ -77,7 +77,7 @@ Training, Certifications, and Awards
 
 * NRO Contracting Officer Technical Representative (COTR)
 
-* [DAWIA Foundational Certification in Test & Evaluation](http://rns294.github.io/files/DATMS TE Foundational Certification ROBERT N SAUNDERS.pdf)
+* [DAWIA Foundational Certification in Test & Evaluation](http://rns294.github.io/files/DATMS_TE_Foundational_Certification-ROBERT_N_SAUNDERS.pdf)
 * DAWIA Credentials in:
   * Technology Project Management
   * Digital Engineering
