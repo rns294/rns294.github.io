@@ -77,11 +77,15 @@ Training, Certifications, and Awards
 
 * NRO Contracting Officer Technical Representative (COTR)
 
+* [DAWIA Practitioner Certification in Engineering & Technical Management](http://rns294.github.io/files/DATMS_ETM_Practitioner_Certification-ROBERT_N_SAUNDERS.pdf)
 * [DAWIA Foundational Certification in Test & Evaluation](http://rns294.github.io/files/DATMS_TE_Foundational_Certification-ROBERT_N_SAUNDERS.pdf)
 * DAWIA Credentials in:
-  * Technology Project Management
-  * Digital Engineering
-  * Risk, Issue, and Opportunity Management
+  * [Technology Project Management](http://rns294.github.io/files/TPMcredential.pdf)
+  * [Digital Engineering](http://rns294.github.io/files/DEcredential.pdf)
+  * [Risk, Issue, and Opportunity Management](http://rns294.github.io/files/RIOcredential.pdf)
+  * [Foundational Acquisition Intelligence](http://rns294.github.io/files/FAIcredential.pdf)
+  * [AI FOundations for the DoD](http://rns294.github.io/files/AIFcredential.pdf)
+  * [Resilience](http://rns294.github.io/files/ALDcredential.pdf)
 
 * [Coursera](https://www.coursera.org/) Certifications in:
   * [Project Management &amp; Other Tools for Career Development specialization](http://rns294.github.io/files/Coursera_ProjectManagement.pdf)
