@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a deputy branch chief in the Office of Space Launch (OSL), Launch Management Division at the National Reconnaissance Office (NRO), where I lead strategic development and transitioning of launch and on-orbit capabilities.
+I am currently the deputy Chief Engineer in Signals Intelligence (SIGINT) Systems Acquisition Directorate at the National Reconnaissance Office (NRO), where I lead ...
 
-I maintain an active TS//SCI clearance with CI polygraph. 
+I maintain an active TS/SCI clearance with CI polygraph. 
 
 Prior Experience
 ------
@@ -19,4 +19,4 @@ Before joining NRO, I was a mechanical engineer at the U.S. Naval Research Labor
 
 Education
 ------
-I hold a B.S. in aerospace engineering from Virginia Tech, an M.S. in aerospace engineering from Texas A&amp;M University, and a Ph.D. in industrial engineering from Texas A&amp;M University. Additionally, I have a graduate certificate in applied statistics from Texas A&amp;M University with course emphasis on Bayesian and spatial statistics.
+I hold a B.S. in aerospace engineering from Virginia Tech, an M.S. in aerospace engineering from Texas A&amp;M University, and a Ph.D. in industrial engineering from Texas A&amp;M University. Additionally, I have a graduate certificate in applied statistics from Texas A&amp;M University with emphasis on Bayesian and spatial statistics.
