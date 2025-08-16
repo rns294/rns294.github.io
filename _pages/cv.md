@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find a PDF version of [my CV here](http://rns294.github.io/files/Robert_Saunders_CV.pdf) and [my resume here](http://rns294.github.io/files/Robert_Saunders_Resume.pdf).
+
 Objective
 ======
 Accelerate the development, acquisition, and fielding of innovative technologies that enhance Warfighter operational effectiveness, ensuring they have the tools and capabilities needed to succeed in rapidly evolving environments and maintain the battlespace advantage.
