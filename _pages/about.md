@@ -15,9 +15,9 @@ Prior Experience
 ------
 I began my government service in 2016 at the Naval Research Laboratory (NRL) following brief stints as a contractor at NRL and the Air Force Research Laboratory (AFRL). At NRL, I led research projects involving blast and ballistic protection for Warfighters, metal/ceramic additive manufacturing, injury biomechanics emphasizing traumatic brain injury (TBI), and applications of machine learning in those areas. 
 
-At NRO and prior to my current position, I positions as a mission manager and deputy branch chief in the Office of Space Launch (OSL). In these roles, I led strategic development, acquisition, and transition of launch and on-orbit capabilities to drive future launch solutions and offer tailorable launch support services. 
+At NRO and prior to my current position, I held positions as a mission manager and deputy branch chief in the Office of Space Launch (OSL). In these roles, I led strategic development, acquisition, and transition of launch and on-orbit capabilities to drive future launch solutions and offer tailorable launch support services. 
 
-I currently resides in Alexandria, VA with my wife, Faith, and daughter, Audrey. When I'm not with my family, I enjoy cars, gaming, lifting weights, and training in Brazilian jiu-jitsu and judo.
+I currently reside in Alexandria, VA with my wife, Faith, and daughter, Audrey. When I'm not with my family, I enjoy cars, video games, lifting weights, and training in Brazilian jiu-jitsu and judo.
 
 Career Chronology
 ------
