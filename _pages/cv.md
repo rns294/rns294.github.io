@@ -109,7 +109,7 @@ Certifications
 * NRO Contracting Officer Technical Representative (COTR)
 
 * [DAWIA Practitioner Certification in Engineering & Technical Management](http://rns294.github.io/files/DATMS_ETM_Practioner_Certification-ROBERT_N_SAUNDERS.pdf)
-* [DAWIA Practitioner Certification in Test & Evaluation](http://rns294.github.io/files/DATMS_TE_Practitioner_Certification-ROBERT_N_SAUNDERS.pdf)
+* [DAWIA Practitioner Certification in Test & Evaluation](http://rns294.github.io/files/DATMS_TE_Practioner_Certification-ROBERT_N_SAUNDERS.pdf)
 
 * DAWIA Credentials in:
   * [Technology Project Management](http://rns294.github.io/files/CENG_012_TPMcredential.pdf)
