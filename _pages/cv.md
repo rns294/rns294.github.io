@@ -33,21 +33,26 @@ Education
 
 Professional Experience
 ======
-* Deputy Chief Engineer (GG-14, 0801), National Reconnaissance Office (NRO), 2024 – present
-  * Lead systems engineering for the multi-billion dollar next-generation overhead SIGINT architecture, consisting of >10 interdependent MSAs, to ensure end-to-end closure.
-  * Employ and coordinate digital systems engineering (DE) practices across SIGINT to accelerate system acquisitions and ensure seamless cross-collection system operations.
-  * Serve as the PM/COTR for an industry consortium - driving the maturation of architecture-wide standards.
+* Chief Engineer (NH-04, 0801, supervisory), Communication and Intelligence Support Systems Program Management Office (PM-CISS), U.S. Special Operations Command (USSOCOM), 2026 – Present
+  * Serve as the Principal Technical Authority for the CISS Program Management Office, providing executive-level oversight for the acquisition, engineering, and rapid fielding of classified Special Operations-unique communication and intelligence systems.
+  * Direct a multidisciplinary team of engineers and acquisition professionals, orchestrating technical strategies across the Command to ensure interoperability and mission success for global Special Operations Forces (SOF).
+
+* Deputy Chief Engineer (GG-14, 0801), Signals Intelligence (SIGINT) Systems Acquisition Directorate, National Reconnaissance Office (NRO), 2024 – 2026
+  * Directed the end-to-end systems engineering and strategic integration of a multi-billion dollar SIGINT architecture, synchronizing >10 MSAs to deliver unified operational capability.
+  * Pioneered the enterprise-wide adoption of Digital Engineering (DE), reducing acquisition lead times and establishing a modernized framework for cross-collection system operations.
+  * PM/AOTR for OT-based capability study for a future high-sensitivity SIGINT system.
+  * PM/COTR for an industry consortium to drive maturation of architecture-wide standards.
   * Represent SIGINT PEO equities at NRO forums and coordinate across the DoD/IC to foster collaboration and partnership with SIGINT users.
   * Lead SIGINT international partnership efforts to strengthen NRO capabilities and promote collaboration among FVEY partners.
 
-* Deputy Branch Chief (GG-13, 0801, supervisory), National Reconnaissance Office (NRO), 2023 – 2024
+* Deputy Branch Chief (GG-13, 0801, supervisory), Office of Space Launch, National Reconnaissance Office (NRO), 2023 – 2024
   * Led a diverse team of military, civilians, and contractors in executing launch missions, conducting advanced capability studies, and engaging in strategic partner outreach.
   * Oversaw the supervision of both civilian and military staff, managing hiring processes, onboarding programs, and providing ongoing mentorship.
   * Identified, developed, and rapidly acquired advanced launch and on-orbit capabilities utilizing both FAR and non-FAR methods.
   * Facilitated and coordinated strategic outreach initiatives with industry and government partners to effectively identify and address customer requirements.
   * Managed stakeholder inputs and tracked progress throughout the Planning, Programming, Budgeting, and Execution process to ensure alignment and accountability.
 
-* Mechanical Engineer (NP-03, 0830), U.S. Naval Research Laboratory (NRL), 2016-2023
+* Mechanical Engineer (NP-03, 0830), Materials Science &amp; Technology Division, U.S. Naval Research Laboratory (NRL), 2016-2023
   * Provided critical insight and guidance using subject matter expertise in metal additive manufacturing (AM) and machine learning (ML).
   * Created an ML-based model for the AM process – leading to a 50% improvement in the performance and quality of AM parts while significantly reducing material waste costs.
   * Co-principal investigator for multiple DoD programs in AM and traumatic brain injury (TBI), involving Tri-Service participation, with total funding exceeding $30 million.
@@ -104,15 +109,18 @@ Certifications
 * NRO Contracting Officer Technical Representative (COTR)
 
 * [DAWIA Practitioner Certification in Engineering & Technical Management](http://rns294.github.io/files/DATMS_ETM_Practioner_Certification-ROBERT_N_SAUNDERS.pdf)
-* [DAWIA Foundational Certification in Test & Evaluation](http://rns294.github.io/files/DATMS_TE_Foundational_Certification-ROBERT_N_SAUNDERS.pdf)
+* [DAWIA Practitioner Certification in Test & Evaluation](http://rns294.github.io/files/DATMS_TE_Practitioner_Certification-ROBERT_N_SAUNDERS.pdf)
 
 * DAWIA Credentials in:
-  * [Technology Project Management](http://rns294.github.io/files/TPMcredential.pdf)
-  * [Digital Engineering](http://rns294.github.io/files/DEcredential.pdf)
-  * [Risk, Issue, and Opportunity Management](http://rns294.github.io/files/RIOcredential.pdf)
-  * [Foundational Acquisition Intelligence](http://rns294.github.io/files/FAIcredential.pdf)
-  * [AI Foundations for the DoD](http://rns294.github.io/files/AIFcredential.pdf)
-  * [Resilience](http://rns294.github.io/files/ALDcredential.pdf)
+  * [Technology Project Management](http://rns294.github.io/files/CENG_012_TPMcredential.pdf)
+  * [Digital Engineering](http://rns294.github.io/files/CENG_001_DEcredential.pdf)
+  * [Systems Engineering Requirements and Architecture](http://rns294.github.io/files/CENG_016_ISEcredential.pdf)
+  * [Risk, Issue, and Opportunity Management](http://rns294.github.io/files/CACQ_004_RIOcredential.pdf)
+  * [Scientific Test and Analysis Techniques](http://rns294.github.io/files/CTST_001_STATcredential.pdf)
+  * [Foundational Acquisition Intelligence](http://rns294.github.io/files/CACQ_010_FAIcredential.pdf)
+  * [AI Foundations for the DoD](http://rns294.github.io/files/CENG_003_AIFcredential.pdf)
+  * [AI Prompt Engineering](http://rns294.github.io/files/CFEN_001_AIPEcredential.pdf)
+  * [Resilience](http://rns294.github.io/files/CALD_001_ALDcredential.pdf)
 
 * [Coursera](https://www.coursera.org/) Certifications in:
   * [Project Management &amp; Other Tools for Career Development specialization](http://rns294.github.io/files/Coursera_ProjectManagement.pdf)
