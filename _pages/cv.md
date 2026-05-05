@@ -36,11 +36,13 @@ Professional Experience
 
 U.S. Special Operations Command (USSOCOM), 2026 – Present
 ------
-* Chief Engineer (NH-04, 0801, supervisory) <br> Communication and Intelligence Support Systems Program Management Office (PM-CISS)
+* Chief Engineer (NH-04, 0801, supervisory), 2026 – Present <br> Communication and Intelligence Support Systems Program Management Office (PM-CISS)
   * Serve as the Principal Technical Authority for the CISS Program Management Office, providing executive-level oversight for the acquisition, engineering, and rapid fielding of classified Special Operations-unique communication and intelligence systems.
   * Direct a multidisciplinary team of engineers and acquisition professionals, orchestrating technical strategies across the Command to ensure interoperability and mission success for global Special Operations Forces (SOF).
 
-* Deputy Chief Engineer (GG-14, 0801), Signals Intelligence (SIGINT) Systems Acquisition Directorate, National Reconnaissance Office (NRO), 2024 – 2026
+National Reconnaissance Office (NRO), 2023 – 2026
+------
+* Deputy Chief Engineer (GG-14, 0801), 2024 – 2026 <br> Signals Intelligence (SIGINT) Systems Acquisition Directorate
   * Directed the end-to-end systems engineering and strategic integration of a multi-billion dollar SIGINT architecture, synchronizing >10 MSAs to deliver unified operational capability.
   * Pioneered the enterprise-wide adoption of Digital Engineering (DE), reducing acquisition lead times and establishing a modernized framework for cross-collection system operations.
   * PM/AOTR for OT-based capability study for a future high-sensitivity SIGINT system.
@@ -48,43 +50,47 @@ U.S. Special Operations Command (USSOCOM), 2026 – Present
   * Represent SIGINT PEO equities at NRO forums and coordinate across the DoD/IC to foster collaboration and partnership with SIGINT users.
   * Lead SIGINT international partnership efforts to strengthen NRO capabilities and promote collaboration among FVEY partners.
 
-* Deputy Branch Chief (GG-13, 0801, supervisory), Office of Space Launch, National Reconnaissance Office (NRO), 2023 – 2024
+* Deputy Branch Chief (GG-13, 0801, supervisory), 2023 – 2024 <br> Office of Space Launch
   * Led a diverse team of military, civilians, and contractors in executing launch missions, conducting advanced capability studies, and engaging in strategic partner outreach.
   * Oversaw the supervision of both civilian and military staff, managing hiring processes, onboarding programs, and providing ongoing mentorship.
   * Identified, developed, and rapidly acquired advanced launch and on-orbit capabilities utilizing both FAR and non-FAR methods.
   * Facilitated and coordinated strategic outreach initiatives with industry and government partners to effectively identify and address customer requirements.
   * Managed stakeholder inputs and tracked progress throughout the Planning, Programming, Budgeting, and Execution process to ensure alignment and accountability.
 
-* Mechanical Engineer (NP-03, 0830), Materials Science &amp; Technology Division, U.S. Naval Research Laboratory (NRL), 2016-2023
+U.S. Naval Research Laboratory (NRL), 2015 – 2023
+------
+* Mechanical Engineer (NP-03, 0830), 2016-2023 <br> Materials Science &amp; Technology Division
   * Provided critical insight and guidance using subject matter expertise in metal additive manufacturing (AM) and machine learning (ML).
   * Created an ML-based model for the AM process – leading to a 50% improvement in the performance and quality of AM parts while significantly reducing material waste costs.
   * Co-principal investigator for multiple DoD programs in AM and traumatic brain injury (TBI), involving Tri-Service participation, with total funding exceeding $30 million.
   * Authored technical briefs for senior leaders, subject matter experts, program managers, and non-technical audiences on complex scientific topics.
 
-* Biomechanics Engineer, Leidos Inc., 2015-2016
+* Biomechanics Engineer, 2015-2016 <br> Leidos Inc.
   * Developed comprehensive strategies to analyze blast injuries sustained during weapons training and combat, resulting in enhanced protection for Warfighters.
   * Identified TBI relationships between various animal species and humans to improve diagnosis and treatment of TBI in Warfighters.
   * Created image-based finite element models of humans and other species using medical imaging data for realistic simulations and accurate TBI assessments.
   * Established a method to evaluate combat helmets against over 300k potential ballistic threats and performed statistical analysis to identify areas lacking protection.
   * Implemented a material model calibration framework for biological materials to enhance the prediction accuracy of material properties by up to 60%.  
 
-* Research Associate, Texas A&amp;M University, 2013-2015
+Texas A&amp;M University, 2013 – 2015
+------
+* Research Associate, 2013-2015 <br> Department of Aerospace Engineering
   * Development of a modelling framework for inductive heating of shape memory alloy components to achieve an order-of-magnitude increase in actuation rates.
   * Led a student team to design, model, and fabricate a composite twisting wing utilizing SMA torque tubes.
   * Simulation and optimization of self-folding reprogrammable sheets using shape memory alloy and shape memory polymer composites.
 
-Other Experience
-======
-* Visiting Scholar, Air Force Research Laboratory, 2014
+* Visiting Scholar, 2014 <br> Air Force Research Laboratory
   * Prototyped a deployable composite structure for overhead GEOINT optic baffles.
 
 * Medical Device Consultant, 2014
   * Provided expert insights and analysis of shape memory alloy biomedical devices.
 
-* Undergraduate Research Assistant, Virginia Tech, 2011-2013
+Virginia Tech, 2009 – 2013
+------
+* Undergraduate Research Assistant, 2011-2013 <br> Department of Aerospace &amp; Ocean Engineering
   * 1-D modeling and testing of shape memory alloys springs.	
 
-* Virginia Tech Microgravity Research Team, Virginia Tech, 2010–2013
+* Virginia Tech Microgravity Research Team, 2010-2013 <br> Department of Aerospace &amp; Ocean Engineering
   * Investigation and flight test of a moving mass actuator control system for small satellites.
   * Chosen two consecutive years to participate in NASAs Reduced Gravity Flight Education Program.
 
