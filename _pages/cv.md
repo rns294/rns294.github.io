@@ -36,7 +36,7 @@ Professional Experience
 
 U.S. Special Operations Command (USSOCOM), 2026 – Present
 ------
-* Chief Engineer (NH-04, 0801, supervisory) \\ Communication and Intelligence Support Systems Program Management Office (PM-CISS)
+* Chief Engineer (NH-04, 0801, supervisory) <br> Communication and Intelligence Support Systems Program Management Office (PM-CISS)
   * Serve as the Principal Technical Authority for the CISS Program Management Office, providing executive-level oversight for the acquisition, engineering, and rapid fielding of classified Special Operations-unique communication and intelligence systems.
   * Direct a multidisciplinary team of engineers and acquisition professionals, orchestrating technical strategies across the Command to ensure interoperability and mission success for global Special Operations Forces (SOF).
 
