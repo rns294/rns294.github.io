@@ -9,15 +9,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently the deputy Chief Engineer (CE) in the Signals Intelligence (SIGINT) Systems Acquisition Directorate at the National Reconnaissance Office (NRO). In this position, he and the CE team guide SIGINT-wide processes and systems engineering to plan, execute, and operate the Nation's current and future overhead SIGINT architectures.
+Robert is the Chief Engineer for the Communication and Intelligence Support Systems (CISS) Program Management Office within the Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&L) directorate at U.S. Special Operations Command (USSOCOM). In this capacity, he serves as the Principal Technical Authority for a diverse portfolio of classified, Special Operations-unique communication and intelligence systems. Robert provides executive-level oversight for the engineering, acquisition, and rapid fielding of advanced capabilities, ensuring global mission readiness for Special Operations Forces.
 
 Prior Experience
 ------
-I began my government service in 2016 at the Naval Research Laboratory (NRL) following brief stints as a contractor at NRL and the Air Force Research Laboratory (AFRL). At NRL, I led research projects involving blast and ballistic protection for Warfighters, metal/ceramic additive manufacturing, injury biomechanics emphasizing traumatic brain injury (TBI), and applications of machine learning in those areas. 
+Prior to joining USSOCOM, Robert served as the Deputy Chief Engineer for the Signals Intelligence (SIGINT) Systems Acquisition Directorate at the National Reconnaissance Office (NRO). There, he orchestrated the end-to-end systems engineering and strategic integration of a multi-billion-dollar overhead SIGINT system-of-systems architecture. At NRO, Robert also held leadership positions as a mission manager and deputy branch chief in the Office of Space Launch (OSL). In these roles, he directed strategic development, acquisition, and transition of advanced on-orbit capabilities and modernized launch infrastructure to ensure 100% mission success for national security payloads.
 
-At NRO and prior to my current position, I held positions as a mission manager and deputy branch chief in the Office of Space Launch (OSL). In these roles, I led strategic development, acquisition, and transition of launch and on-orbit capabilities to drive future launch solutions and offer tailorable launch support services. 
+Robert began his federal career at the Naval Research Laboratory (NRL) as a Mechanical Engineer, following brief stints as a contractor at NRL and the Air Force Research Laboratory (AFRL). At NRL, he led research projects involving blast and ballistic protection for Warfighters, metal/ceramic additive manufacturing, injury biomechanics emphasizing traumatic brain injury (TBI), and applications of machine learning in those areas.
 
-I currently reside in Alexandria, VA with my wife, Faith, and daughter, Audrey. When I'm not with my family, I enjoy cars, video games, lifting weights, and training in Brazilian jiu-jitsu and judo.
+Robert currently resides in Springfield, VA with his wife, Faith, and their daughter, Audrey. When he is not spending time with his family, he has several hobbies including cars, videogames, powerlifting, and martial arts (Brazilian jiu-jitsu; Judo).
 
 Career Chronology
 ------
@@ -27,7 +27,8 @@ Career Chronology
 4. Sep 2016 - Feb 2023: Mechanical Engineer, NRL 
 5. Feb 2023 - Sep 2023: Mission Manager, OSL, NRO 
 6. Sep 2023 - Sep 2024: Deputy Branch Chief, OSL, NRO 
-7. Sep 2024 - Present: Deputy Chief Engineer, SIGINT, NRO 
+7. Sep 2024 – May 2026: Deputy Chief Engineer, SIGINT, NRO
+8. May 2026 – Present: Chief Engineer, PM CISS, USSOCOM
 
 Education
 ------
@@ -38,4 +39,4 @@ Education
 Certifications
 ------
 * Defense Acquisition Engineering & Technical Management - Practitioner
-* Defense Acquisition Test & Evaluation - Foundational
+* Defense Acquisition Test & Evaluation - Practitioner
